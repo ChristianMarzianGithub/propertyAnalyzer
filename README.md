@@ -1,2 +1,2 @@
 # propertyAnalyzer
-A webtool to analyze Spring boot properties
+A webtool to analyze Spring boot properties.
